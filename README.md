@@ -8,4 +8,4 @@
 
 [React Crash Course](https://youtu.be/Ke90Tje7VS0?list=WL)
 - Building a counter app following a YouTube tutorial covering some React Basics
-- link to project
+- [link to project](https://aglime.github.io/react-crashcourse-mosh/)
